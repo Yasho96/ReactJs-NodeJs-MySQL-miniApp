@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.registration,.login{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.registration input,.login input{
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.login button, .registration button{
+  width: 300px;
+  height: 50px;
+  margin-top: 15px;
+}
+
+.login button:hover, .registration button:hover{
+  cursor: pointer;
+}
+
