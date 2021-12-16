@@ -5,7 +5,9 @@ CSS
 Javascript
 React js
 NodeJs
+axios, expressJs,cors (packages installed)
 Database - MySQL
+
 
 To run front end
 
